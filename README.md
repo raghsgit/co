@@ -1,2 +1,2 @@
 # co
-<a href='co.pdf' download> Download CO soln</a>
+<a href='co' download> Download CO soln</a>
